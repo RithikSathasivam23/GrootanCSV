@@ -11,3 +11,5 @@ based on the header names of the CSV file.
 
 After inserting one csv file you need to drop the table because the another csv contains different number of columns and column names,so you need to drop the table
   the table and the table is created dynamically in the same database.
+
+ Drop your Previous CSV and add your new CSV
