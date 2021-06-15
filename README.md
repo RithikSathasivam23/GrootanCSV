@@ -13,3 +13,5 @@ After inserting one csv file you need to drop the table because the another csv 
   the table and the table is created dynamically in the same database.
 
  Drop your Previous CSV and add your new CSV
+
+  After uploading the CSV file you can see number of success and failures
